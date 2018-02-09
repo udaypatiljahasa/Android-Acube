@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACubeIO</string>
+    <string name="btn_log_out_name">Log Out</string>
+    <string name="btn_scan_name">Scan</string>
+    <string name="btn_login_name">Login</string>
+    <string name="btn_sign_up_name">Sign Up</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <string name="txt_error_header">Error</string>
+    <string name="btn_ok_name">Ok</string>
+    <string name="txt_send_success">SEND SUCCESS</string>
+    <string name="txt_send_failure">SEND FAILURE</string>
+</resources>
