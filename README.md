@@ -3,7 +3,10 @@
 The Project used to send and receive data from a BLE Device.
 
 ## Description
-      The Project verifies the user with **OAuth** and fetches and stores the encrypted **Access Token** and **Refresh Token** in the **SQlite** database , after successful login the user can scan for the BLE Devices in the range, all the devices available in the range are listed. User can tap on the list item to connect to the device and send and receive the data from it.
+      The Project verifies the user with **OAuth** and fetches and stores the encrypted **Access Token** 
+      and **Refresh Token** in the **SQlite** database , after successful login the user can scan for 
+      the BLE Devices in the range, all the devices available in the range are listed. 
+      User can tap on the list item to connect to the device and send and receive the data from it.
 
 
 ### Prerequisites
